@@ -34,7 +34,7 @@ driver.get("https://www.youtube.com/watch?v=-K8Oid03eUU")
 driver.find_element_by_xpath("//button[@class='ytp-fullscreen-button ytp-button']").click()
 time.sleep(180)
 driver.find_element_by_xpath("//button[@class='ytp-fullscreen-button ytp-button']").click()
-time.sleep(10)
+time.sleep(12)
 
 driver.close()
 driver.quit()
