@@ -11,7 +11,7 @@ driver.get("https://www.google.com")
 
 driver.find_element_by_name("q").send_keys("How to automate test scripts")
 
-time.sleep(3)
+time.sleep(4)
 
 driver.find_element_by_name("btnK").click()
 
