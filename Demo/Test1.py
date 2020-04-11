@@ -5,6 +5,7 @@ from selenium import webdriver
 driver = webdriver.Chrome("../driver/chromedriver.exe")
 
 driver.set_page_load_timeout(10)
+driver.maximize_window()
 
 driver.get("https://www.google.com")
 
