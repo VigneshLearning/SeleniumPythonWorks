@@ -23,6 +23,12 @@ driver.find_element_by_xpath("//button[@class='ytp-fullscreen-button ytp-button'
 time.sleep(190)
 driver.find_element_by_xpath("//button[@class='ytp-fullscreen-button ytp-button']").click()
 time.sleep(7)
+# DeivaThirumagal
+driver.get("https://youtu.be/Ihol_f_qEzM?t=18")
+driver.find_element_by_xpath("//button[@class='ytp-fullscreen-button ytp-button']").click()
+time.sleep(280)
+driver.find_element_by_xpath("//button[@class='ytp-fullscreen-button ytp-button']").click()
+time.sleep(12)
 # YennaiArinthal
 driver.get("https://www.youtube.com/watch?v=SdcAN3dobz4")
 driver.find_element_by_xpath("//button[@class='ytp-fullscreen-button ytp-button']").click()
