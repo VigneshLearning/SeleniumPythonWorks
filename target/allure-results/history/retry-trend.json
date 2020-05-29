@@ -1,0 +1,17 @@
+[ {
+  "buildOrder" : 8,
+  "reportUrl" : "nulljob/SeleniumPytest/8/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 5,
+    "retry" : 30
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "nulljob/SeleniumPytest/7/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 5,
+    "retry" : 25
+  }
+} ]

@@ -1,0 +1,15 @@
+[ {
+  "buildOrder" : 8,
+  "reportUrl" : "nulljob/SeleniumPytest/8/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 1
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "nulljob/SeleniumPytest/7/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Product defects" : 1
+  }
+} ]

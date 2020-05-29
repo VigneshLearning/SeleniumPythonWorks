@@ -1,0 +1,9 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "buildOrder" : 9,
+  "buildName" : "SeleniumProject #9",
+  "buildUrl" : "nulljob/SeleniumPytest/9/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "nulljob/SeleniumPytest/9/allure"
+} ]

@@ -1,0 +1,59 @@
+{
+  "uid" : "1551f88e86e672df",
+  "name" : "test_calc_sum[5-7-11]",
+  "fullName" : "test_parametarization_demo#test_calc_sum",
+  "historyId" : "3f941f7d44ec5bc5377dbfcd656505d3",
+  "time" : {
+    "start" : 1586570367686,
+    "stop" : 1586570367690,
+    "duration" : 4
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 12 == 11",
+  "statusTrace" : "input1 = 5, input2 = 7, output = 11\n\n    @pytest.mark.parametrize(\"input1, input2, output\", [\n        (2,3,5),\n        (4,4,8),\n        (5,7,11)\n    ])\n    \n    def test_calc_sum(input1,input2, output):\n        result = sum(input1,input2)\n>       assert result == output\nE       assert 12 == 11\n\ntest_parametarization_demo.py:13: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_parametarization_demo"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-QCGVCH7O"
+  }, {
+    "name" : "thread",
+    "value" : "6832-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_parametarization_demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "input1",
+    "value" : "5"
+  }, {
+    "name" : "input2",
+    "value" : "7"
+  }, {
+    "name" : "output",
+    "value" : "11"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1551f88e86e672df.json",
+  "parameterValues" : [ "5", "7", "11" ]
+}

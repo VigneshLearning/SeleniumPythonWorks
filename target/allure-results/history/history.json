@@ -1,0 +1,151 @@
+{
+  "ffa0b1c8a442015539c5c70c7086e5e2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "8b52d6aa342795f0",
+      "reportUrl" : "nulljob/SeleniumPytest/8/allure/#testresult/8b52d6aa342795f0",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: Not included in this build",
+      "time" : {
+        "start" : 1586570669999,
+        "stop" : 1586570669999,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "86a89c7dcaf4266d",
+      "reportUrl" : "nulljob/SeleniumPytest/7/allure/#testresult/86a89c7dcaf4266d",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: Not included in this build",
+      "time" : {
+        "start" : 1586570397148,
+        "stop" : 1586570397148,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f8a38738aebc83740c5e0090b3c58a7c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "e88125754f6cb25c",
+      "reportUrl" : "nulljob/SeleniumPytest/8/allure/#testresult/e88125754f6cb25c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586570652890,
+        "stop" : 1586570666391,
+        "duration" : 13501
+      }
+    }, {
+      "uid" : "4b1d450a0964fcc4",
+      "reportUrl" : "nulljob/SeleniumPytest/7/allure/#testresult/4b1d450a0964fcc4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586570378748,
+        "stop" : 1586570390766,
+        "duration" : 12018
+      }
+    } ]
+  },
+  "4b8c2b773b5ec98dd31d7b73d280ce27" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "a3a7cac1afdaa45c",
+      "reportUrl" : "nulljob/SeleniumPytest/8/allure/#testresult/a3a7cac1afdaa45c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586570642026,
+        "stop" : 1586570642026,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5fc242dc2ea5ec70",
+      "reportUrl" : "nulljob/SeleniumPytest/7/allure/#testresult/5fc242dc2ea5ec70",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586570367650,
+        "stop" : 1586570367650,
+        "duration" : 0
+      }
+    } ]
+  },
+  "3f941f7d44ec5bc5377dbfcd656505d3" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "8141e758a52668e0",
+      "reportUrl" : "nulljob/SeleniumPytest/8/allure/#testresult/8141e758a52668e0",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 12 == 11",
+      "time" : {
+        "start" : 1586570642058,
+        "stop" : 1586570642059,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "e803b61fd97939c3",
+      "reportUrl" : "nulljob/SeleniumPytest/7/allure/#testresult/e803b61fd97939c3",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 12 == 11",
+      "time" : {
+        "start" : 1586570367686,
+        "stop" : 1586570367690,
+        "duration" : 4
+      }
+    } ]
+  },
+  "9de4232772ebacd4d926769abca4f674" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "fcb1477a37605fda",
+      "reportUrl" : "nulljob/SeleniumPytest/8/allure/#testresult/fcb1477a37605fda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586570642042,
+        "stop" : 1586570642042,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3d0a9f8d5a6a7f5a",
+      "reportUrl" : "nulljob/SeleniumPytest/7/allure/#testresult/3d0a9f8d5a6a7f5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1586570367670,
+        "stop" : 1586570367670,
+        "duration" : 0
+      }
+    } ]
+  }
+}

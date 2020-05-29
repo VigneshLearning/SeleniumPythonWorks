@@ -1,0 +1,57 @@
+{
+  "uid" : "ae38e0d3efebdf03",
+  "name" : "test_calc_sum[4-4-8]",
+  "fullName" : "test_parametarization_demo#test_calc_sum",
+  "historyId" : "9de4232772ebacd4d926769abca4f674",
+  "time" : {
+    "start" : 1586567631475,
+    "stop" : 1586567631475,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_parametarization_demo"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-QCGVCH7O"
+  }, {
+    "name" : "thread",
+    "value" : "15176-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_parametarization_demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "input1",
+    "value" : "4"
+  }, {
+    "name" : "input2",
+    "value" : "4"
+  }, {
+    "name" : "output",
+    "value" : "8"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ae38e0d3efebdf03.json",
+  "parameterValues" : [ "4", "4", "8" ]
+}

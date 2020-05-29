@@ -1,0 +1,53 @@
+{
+  "uid" : "ee88b1a065ef1456",
+  "name" : "test_login_false",
+  "fullName" : "test_sample.TestSample#test_login_false",
+  "historyId" : "ffa0b1c8a442015539c5c70c7086e5e2",
+  "time" : {
+    "start" : 1586570669999,
+    "stop" : 1586570669999,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "statusMessage" : "Skipped: Not included in this build",
+  "statusTrace" : "('test_sample.py', 26, 'Skipped: Not included in this build')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_sample"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSample"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-QCGVCH7O"
+  }, {
+    "name" : "thread",
+    "value" : "7860-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_sample"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee88b1a065ef1456.json",
+  "parameterValues" : [ ]
+}
