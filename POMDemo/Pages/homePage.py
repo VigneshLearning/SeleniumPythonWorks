@@ -4,7 +4,7 @@ class HomePage():
         self.driver = driver
 
         self.welcome_link_id = "welcome"
-        self.logout_link_linktext = "Déconnexion"
+        self.logout_link_linktext = "Logout"
 
 
     def click_welcome(self):

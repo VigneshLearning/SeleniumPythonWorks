@@ -7,4 +7,4 @@ class Locators():
 
     # Home Page Locators
     welcome_link_id = "welcome"
-    logout_link_linktext = "Déconnexion"
+    logout_link_linktext = "Logout"

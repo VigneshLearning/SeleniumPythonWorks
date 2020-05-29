@@ -17,7 +17,7 @@ driver.find_element_by_xpath("//input[@id='form1']").send_keys('597687')
 driver.find_element_by_xpath("//button[@id='proceed-button']").click()
 time.sleep(3)
 driver.find_element_by_xpath("//button[@id='password-btn']").click()
-time.sleep(15)
+time.sleep(120)
 driver.find_element_by_xpath("//input[@id='password-login']").send_keys("Abril@2020UYU")
 driver.find_element_by_xpath("//button[@id='form-submit']").click()
 time.sleep(15)
@@ -48,7 +48,10 @@ time.sleep(3)
 # time.sleep(2)
 # driver.find_element_by_name("btnK").click()
 # print(driver.title)
-driver.close()
-driver.quit()
+
+# USE IT WHEN U NEED IT
+
+# driver.close()
+# driver.quit()
 
 print("Completed")

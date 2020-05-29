@@ -42,5 +42,7 @@ time.sleep(180)
 driver.find_element_by_xpath("//button[@class='ytp-fullscreen-button ytp-button']").click()
 time.sleep(12)
 
+print("All Songs Played")
+
 driver.close()
 driver.quit()
