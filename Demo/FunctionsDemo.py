@@ -12,7 +12,7 @@ def addition(add1,add2):
     print(add3)
 
 def printss():
-    a = '15';
+    a = '17';
     print("Age is"+" "+a)
 
 def abstest():
